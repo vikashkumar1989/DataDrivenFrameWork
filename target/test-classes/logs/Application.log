@@ -1,16 +1,16 @@
-20/10/2018 18:34:51 devpinoyLogger Config File loaded !!!
-20/10/2018 18:34:51 devpinoyLogger OR File Loaded !!!
-20/10/2018 18:35:17 devpinoyLogger Firefox driver intilized successfully !!!!!!
-20/10/2018 18:35:27 devpinoyLogger Navigated to URL...http://www.way2automation.com/angularjs-protractor/banking/#/login
-20/10/2018 18:35:32 devpinoyLogger successfully verified bank manager login button !!!
-20/10/2018 18:35:34 devpinoyLogger Successfully navigated to  Add customer page
-20/10/2018 18:35:36 devpinoyLogger Successfully Added customer
-20/10/2018 18:35:38 devpinoyLogger Successfully navigated to  Add customer page
-20/10/2018 18:35:39 devpinoyLogger Successfully Added customer
-20/10/2018 18:35:41 devpinoyLogger Successfully navigated to  Add customer page
-20/10/2018 18:35:42 devpinoyLogger Successfully Added customer
-20/10/2018 18:35:44 devpinoyLogger Successfully navigated to  Add customer page
-20/10/2018 18:35:45 devpinoyLogger Successfully Added customer
-20/10/2018 18:35:47 devpinoyLogger Successfully navigated to  Add customer page
-20/10/2018 18:35:49 devpinoyLogger Successfully Added customer
-20/10/2018 18:35:57 devpinoyLogger Driver Closed sussessfully....
+21/10/2018 19:04:40 devpinoyLogger Config File loaded !!!
+21/10/2018 19:04:40 devpinoyLogger OR File Loaded !!!
+21/10/2018 19:05:05 devpinoyLogger Chrome Driver Intilized successfully !!!!!!
+21/10/2018 19:05:19 devpinoyLogger Navigated to URL...http://www.way2automation.com/angularjs-protractor/banking/#/login
+21/10/2018 19:05:25 devpinoyLogger successfully verified bank manager login button !!!
+21/10/2018 19:05:33 devpinoyLogger Successfully navigated to  Add customer page
+21/10/2018 19:05:41 devpinoyLogger Successfully Added customer
+21/10/2018 19:05:43 devpinoyLogger Successfully navigated to  Add customer page
+21/10/2018 19:05:45 devpinoyLogger Successfully Added customer
+21/10/2018 19:05:46 devpinoyLogger Successfully navigated to  Add customer page
+21/10/2018 19:05:48 devpinoyLogger Successfully Added customer
+21/10/2018 19:05:49 devpinoyLogger Successfully navigated to  Add customer page
+21/10/2018 19:05:51 devpinoyLogger Successfully Added customer
+21/10/2018 19:05:52 devpinoyLogger Successfully navigated to  Add customer page
+21/10/2018 19:05:54 devpinoyLogger Successfully Added customer
+21/10/2018 19:06:04 devpinoyLogger Driver Closed sussessfully....
