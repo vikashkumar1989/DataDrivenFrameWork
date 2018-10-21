@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="8.024" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="DataDrivenFrameworkTest"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="2"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="JENKINS_HOME" value="C:\Users\Vikash\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="35a05d2505a81323"/>
+    <property name="POM_ARTIFACTID" value="DataDrivenFramework"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_181\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_181\jre\classes"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="Ant_Home" value="C:\apache-ant-1.10.3"/>
+    <property name="POM_DISPLAYNAME" value="DataDrivenFramework"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\Vikash\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_181-b13"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="Vikash"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="DataDrivenFrameworkTest"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenFrameworkTest/10/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#10"/>
+    <property name="OneDrive" value="C:\Users\Vikash\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_181\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\Vikash\AppData\Local"/>
+    <property name="java.version" value="1.8.0_181"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="USERNAME" value="Vikash"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="Java_Home" value="C:\Program Files\Java\jdk1.8.0_181"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="10"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\apache-maven-3.5.4\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_181\jre"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="=ExitCode" value="00000082"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenFrameworkTest/10/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\Vikash\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.181-b13"/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/DataDrivenFrameworkTest/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="VIKASH-PC"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\Vikash"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="VIKASH-PC"/>
+    <property name="POM_GROUPID" value="com.w2a"/>
+    <property name="user.home" value="C:\Users\Vikash"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-DataDrivenFrameworkTest-10"/>
+    <property name="JENKINS_SERVER_COOKIE" value="35a05d2505a81323"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\Vikash"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_181\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\apache-maven-3.5.4/bin;C:\Program Files\Java\jdk1.8.0_181/bin;C:\Program Files\Java\jdk1.8.0_181/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\apache-maven-3.5.4\bin;C:\apache-ant-1.10.3\bin;C:\Users\Vikash\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\Vikash\AppData\Roaming"/>
+    <property name="Browser" value="Firefox"/>
+    <property name="Maven_Home" value="C:\apache-maven-3.5.4"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\apache-maven-3.5.4"/>
+    <property name="java.class.path" value="C:\Users\Vikash\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\apache-maven-3.5.4\boot\plexus-classworlds-2.5.2.jar;C:\apache-maven-3.5.4/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\apache-maven-3.5.4 C:\Users\Vikash\.jenkins\war\WEB-INF\lib\remoting-3.26.jar C:\Users\Vikash\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\Vikash\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 58923"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_181/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\apache-maven-3.5.4\bin;C:\apache-ant-1.10.3\bin;C:\Users\Vikash\AppData\Local\Microsoft\WindowsApps;"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_181/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="x86 Family 6 Model 23 Stepping 10, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\apache-maven-3.5.4"/>
+    <property name="java.io.tmpdir" value="C:\Users\Vikash\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\Vikash\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\apache-maven-3.5.4/bin"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/DataDrivenFrameworkTest/10/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="x86"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_181\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\Vikash\Desktop\Java\DataDrivenFramework"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/DataDrivenFrameworkTest/"/>
+    <property name="LOGONSERVER" value="\\VIKASH-PC"/>
+    <property name="USERDOMAIN" value="VIKASH-PC"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="BUILD_NUMBER" value="10"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="170a"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Jenkins"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\Vikash\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
+    <property name="WORKSPACE" value="C:\Users\Vikash\.jenkins\workspace\DataDrivenFrameworkTest"/>
+    <property name="maven3.interceptor.common" value="C:\Users\Vikash\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase name="LoginAsBankManager" classname="com.w2a.testcases.BankManagerLogin" time="0.912"/>
+  <testcase name="addcustomer" classname="com.w2a.testcases.AddCustomer" time="3.519"/>
+  <testcase name="addcustomer" classname="com.w2a.testcases.AddCustomer" time="2.792"/>
+  <testcase name="addcustomer" classname="com.w2a.testcases.AddCustomer" time="2.761"/>
+  <testcase name="addcustomer" classname="com.w2a.testcases.AddCustomer" time="2.663"/>
+  <testcase name="addcustomer" classname="com.w2a.testcases.AddCustomer" time="3.217"/>
+  <testcase name="openAccount" classname="com.w2a.testcases.OpenAccount" time="3.593"/>
+</testsuite>

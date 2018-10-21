@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Successfully Executed]]>
+    </line>
+  </reporter-output>
+  <suite name="Data Driven Basic" duration-ms="22638" started-at="2018-10-20T13:05:31Z" finished-at="2018-10-20T13:05:54Z">
+    <groups>
+    </groups>
+    <test name="Bank Manager Login" duration-ms="2341" started-at="2018-10-20T13:05:31Z" finished-at="2018-10-20T13:05:33Z">
+      <class name="com.w2a.testcases.BankManagerLogin">
+        <test-method status="PASS" signature="LoginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@794848]" name="LoginAsBankManager" duration-ms="911" started-at="2018-10-20T18:35:31Z" finished-at="2018-10-20T18:35:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Successfully Executed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginAsBankManager -->
+      </class> <!-- com.w2a.testcases.BankManagerLogin -->
+    </test> <!-- Bank Manager Login -->
+    <test name="Add customer Test" duration-ms="16174" started-at="2018-10-20T13:05:34Z" finished-at="2018-10-20T13:05:50Z">
+      <class name="com.w2a.testcases.AddCustomer">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@162f559]" name="addcustomer" duration-ms="3518" started-at="2018-10-20T18:35:34Z" data-provider="dp" finished-at="2018-10-20T18:35:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=1006.0, FirstName=Nisha, LastName=Kumar, Runmode=Y, AlertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@162f559]" name="addcustomer" duration-ms="2757" started-at="2018-10-20T18:35:38Z" data-provider="dp" finished-at="2018-10-20T18:35:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=1007.0, FirstName=Ashish, LastName=Kumar, Runmode=Y, AlertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@162f559]" name="addcustomer" duration-ms="2734" started-at="2018-10-20T18:35:41Z" data-provider="dp" finished-at="2018-10-20T18:35:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=1008.0, FirstName=Mahesh, LastName=Kumar, Runmode=Y, AlertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@162f559]" name="addcustomer" duration-ms="2641" started-at="2018-10-20T18:35:44Z" data-provider="dp" finished-at="2018-10-20T18:35:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=1009.0, FirstName=Sunil, LastName=Kumar, Runmode=Y, AlertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@162f559]" name="addcustomer" duration-ms="3186" started-at="2018-10-20T18:35:46Z" data-provider="dp" finished-at="2018-10-20T18:35:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=1010.0, FirstName=Shweta, LastName=Kumar, Runmode=Y, AlertText=Customer added successfully}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+      </class> <!-- com.w2a.testcases.AddCustomer -->
+    </test> <!-- Add customer Test -->
+    <test name="Open Account" duration-ms="3736" started-at="2018-10-20T13:05:50Z" finished-at="2018-10-20T13:05:54Z">
+      <class name="com.w2a.testcases.OpenAccount">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.w2a.testcases.OpenAccount@135dea7]" name="setup" is-config="true" duration-ms="40203" started-at="2018-10-20T18:34:51Z" finished-at="2018-10-20T18:35:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="openAccount(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.OpenAccount@135dea7]" name="openAccount" duration-ms="3568" started-at="2018-10-20T18:35:50Z" data-provider="dp" finished-at="2018-10-20T18:35:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Currency=Rupee, Customer=Nisha Kumar}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.OpenAccount@135dea7]" name="tearDown" is-config="true" duration-ms="3378" started-at="2018-10-20T18:35:54Z" finished-at="2018-10-20T18:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.w2a.testcases.OpenAccount -->
+    </test> <!-- Open Account -->
+  </suite> <!-- Data Driven Basic -->
+</testng-results>

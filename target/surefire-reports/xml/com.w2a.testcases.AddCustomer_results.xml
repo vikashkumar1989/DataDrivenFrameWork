@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Add customer Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.836">
+  <properties />
+  
+  
+            <testcase name="addcustomer" time="3.518" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="2.757" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="2.734" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="2.641" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="3.186" classname="com.w2a.testcases.AddCustomer" />
+      
+</testsuite>
