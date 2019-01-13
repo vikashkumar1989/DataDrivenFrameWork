@@ -44,7 +44,7 @@ public class TestBase {
 	public ExtentReports rep = ExtentManager.getInstance();
 	public static ExtentTest test;
 	public static String Browser;
-	// public static Logger log=LogManager.getLogger(TestBase.class.getName());
+	//public static Logger log=LogManager.getLogger(TestBase.class.getName());
 	//Second Commit
 	//Third Commit
 	//Fourt Commit
