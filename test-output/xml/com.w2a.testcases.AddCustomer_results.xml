@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="14.250">
+           time="19.484">
   <properties />
   
   
-            <testcase name="addcustomer" time="2.583" classname="com.w2a.testcases.AddCustomer" />
-                <testcase name="addcustomer" time="2.724" classname="com.w2a.testcases.AddCustomer" />
-                <testcase name="addcustomer" time="2.533" classname="com.w2a.testcases.AddCustomer" />
-                <testcase name="addcustomer" time="2.664" classname="com.w2a.testcases.AddCustomer" />
-                <testcase name="addcustomer" time="3.746" classname="com.w2a.testcases.AddCustomer" />
+            <testcase name="addcustomer" time="2.893" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="3.184" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="6.718" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="3.358" classname="com.w2a.testcases.AddCustomer" />
+                <testcase name="addcustomer" time="3.331" classname="com.w2a.testcases.AddCustomer" />
       
 </testsuite>

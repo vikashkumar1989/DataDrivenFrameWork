@@ -5,12 +5,12 @@
       <![CDATA[Login Successfully Executed]]>
     </line>
   </reporter-output>
-  <suite name="Data Driven Basic" duration-ms="21637" started-at="2018-10-20T13:01:47Z" finished-at="2018-10-20T13:02:08Z">
+  <suite name="Data Driven Basic" duration-ms="51505" started-at="2019-01-14T11:16:07Z" finished-at="2019-01-14T11:16:59Z">
     <groups>
     </groups>
-    <test name="Bank Manager Login" duration-ms="2410" started-at="2018-10-20T13:01:47Z" finished-at="2018-10-20T13:01:49Z">
+    <test name="Bank Manager Login" duration-ms="23881" started-at="2019-01-14T11:16:07Z" finished-at="2019-01-14T11:16:31Z">
       <class name="com.w2a.testcases.BankManagerLogin">
-        <test-method status="PASS" signature="LoginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@18ca3c8]" name="LoginAsBankManager" duration-ms="1325" started-at="2018-10-20T13:01:47Z" finished-at="2018-10-20T13:01:48Z">
+        <test-method status="PASS" signature="LoginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@d6e7bab]" name="LoginAsBankManager" duration-ms="19906" started-at="2019-01-14T11:16:09Z" finished-at="2019-01-14T11:16:29Z">
           <reporter-output>
             <line>
               <![CDATA[Login Successfully Executed]]>
@@ -19,9 +19,9 @@
         </test-method> <!-- LoginAsBankManager -->
       </class> <!-- com.w2a.testcases.BankManagerLogin -->
     </test> <!-- Bank Manager Login -->
-    <test name="Add customer Test" duration-ms="15149" started-at="2018-10-20T13:01:49Z" finished-at="2018-10-20T13:02:05Z">
+    <test name="Add customer Test" duration-ms="21038" started-at="2019-01-14T11:16:32Z" finished-at="2019-01-14T11:16:54Z">
       <class name="com.w2a.testcases.AddCustomer">
-        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@ad498c]" name="addcustomer" duration-ms="3746" started-at="2018-10-20T13:01:50Z" data-provider="dp" finished-at="2018-10-20T13:01:53Z">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@e7edb54]" name="addcustomer" duration-ms="6718" started-at="2019-01-14T11:16:33Z" data-provider="dp" finished-at="2019-01-14T11:16:40Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@ad498c]" name="addcustomer" duration-ms="2664" started-at="2018-10-20T13:01:54Z" data-provider="dp" finished-at="2018-10-20T13:01:56Z">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@e7edb54]" name="addcustomer" duration-ms="3358" started-at="2019-01-14T11:16:40Z" data-provider="dp" finished-at="2019-01-14T11:16:43Z">
           <params>
             <param index="0">
               <value>
@@ -43,7 +43,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@ad498c]" name="addcustomer" duration-ms="2724" started-at="2018-10-20T13:01:56Z" data-provider="dp" finished-at="2018-10-20T13:01:59Z">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@e7edb54]" name="addcustomer" duration-ms="3331" started-at="2019-01-14T11:16:44Z" data-provider="dp" finished-at="2019-01-14T11:16:47Z">
           <params>
             <param index="0">
               <value>
@@ -54,7 +54,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@ad498c]" name="addcustomer" duration-ms="2583" started-at="2018-10-20T13:01:59Z" data-provider="dp" finished-at="2018-10-20T13:02:02Z">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@e7edb54]" name="addcustomer" duration-ms="2893" started-at="2019-01-14T11:16:47Z" data-provider="dp" finished-at="2019-01-14T11:16:50Z">
           <params>
             <param index="0">
               <value>
@@ -65,7 +65,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@ad498c]" name="addcustomer" duration-ms="2533" started-at="2018-10-20T13:02:02Z" data-provider="dp" finished-at="2018-10-20T13:02:04Z">
+        <test-method status="PASS" signature="addcustomer(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.AddCustomer@e7edb54]" name="addcustomer" duration-ms="3184" started-at="2019-01-14T11:16:50Z" data-provider="dp" finished-at="2019-01-14T11:16:53Z">
           <params>
             <param index="0">
               <value>
@@ -78,13 +78,13 @@
         </test-method> <!-- addcustomer -->
       </class> <!-- com.w2a.testcases.AddCustomer -->
     </test> <!-- Add customer Test -->
-    <test name="Open Account" duration-ms="3696" started-at="2018-10-20T13:02:05Z" finished-at="2018-10-20T13:02:08Z">
+    <test name="Open Account" duration-ms="4960" started-at="2019-01-14T11:16:54Z" finished-at="2019-01-14T11:16:59Z">
       <class name="com.w2a.testcases.OpenAccount">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.w2a.testcases.OpenAccount@96385]" name="setup" is-config="true" duration-ms="47288" started-at="2018-10-20T13:00:59Z" finished-at="2018-10-20T13:01:47Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.w2a.testcases.OpenAccount@67080771]" name="setup" is-config="true" duration-ms="100829" started-at="2019-01-14T11:14:26Z" finished-at="2019-01-14T11:16:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="openAccount(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.OpenAccount@96385]" name="openAccount" duration-ms="3576" started-at="2018-10-20T13:02:05Z" data-provider="dp" finished-at="2018-10-20T13:02:08Z">
+        <test-method status="PASS" signature="openAccount(java.util.Hashtable)[pri:0, instance:com.w2a.testcases.OpenAccount@67080771]" name="openAccount" duration-ms="4788" started-at="2019-01-14T11:16:54Z" data-provider="dp" finished-at="2019-01-14T11:16:59Z">
           <params>
             <param index="0">
               <value>
@@ -95,7 +95,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openAccount -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.OpenAccount@96385]" name="tearDown" is-config="true" duration-ms="2349" started-at="2018-10-20T13:02:08Z" finished-at="2018-10-20T13:02:11Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.w2a.testcases.OpenAccount@67080771]" name="tearDown" is-config="true" duration-ms="2089" started-at="2019-01-14T11:16:59Z" finished-at="2019-01-14T11:17:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

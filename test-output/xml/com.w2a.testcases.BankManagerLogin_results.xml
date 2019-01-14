@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.325">
+           time="19.906">
   <properties />
   
   
-            <testcase name="LoginAsBankManager" time="1.325" classname="com.w2a.testcases.BankManagerLogin" />
+            <testcase name="LoginAsBankManager" time="19.906" classname="com.w2a.testcases.BankManagerLogin" />
       
 </testsuite>
